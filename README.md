@@ -1,5 +1,3 @@
-# paysecure-terraform-infra
-Terraform infrastructure code for PaySecure fintech platform, provisioning AWS networking, EKS, RDS PostgreSQL (HA), security, and supporting cloud resources.
 # PaySecure – Terraform Infrastructure
 
 This repository contains Terraform code to provision cloud infrastructure
